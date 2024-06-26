@@ -38,7 +38,6 @@
 ## Acknowledgements
 Give credit here.
 - Upgrad and IIIT teams for learning and guiding thorugh recorded sessions, texts and live sessions.
-- 
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
